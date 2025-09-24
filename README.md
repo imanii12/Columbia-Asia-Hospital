@@ -12,4 +12,4 @@ o	Created interactive dashboards and reports, incorporating charts, tables, and 
 
 ![image alt](https://github.com/zalkeachal/Columbia-Asia-Hospital/blob/main/Screenshot%20(105).png?raw=true)
 
-![image alt](https://github.com/zalkeachal/Columbia-Asia-Hospital/blob/main/Screenshot%20(106).png?raw=true)# Columbia-Asia-Hospital
+![image alt](https://github.com/zalkeachal/Columbia-Asia-Hospital/blob/main/Screenshot%20(106).png?raw=true)
